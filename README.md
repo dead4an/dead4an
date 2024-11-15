@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Denis
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer Science student at HSE, Russia 🇷🇺</h3>
 
-<!--
-**dead4an/dead4an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### 🚀 Projects
+- Autumnus (Tensors and Dynamic neural networks in Python)
+- Roadline semantic segmentation
 
-Here are some ideas to get you started:
+### 📕 Subjects I'm intrested in
+- Data Science
+- Machine Learning
+- Higher Mathematics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Achievements
+- 🥇 [Leaders of Digital](https://hacks-ai.ru/int) (Case: Detection of traffic violations, Team: UnThinkable, Year: 2024)
+- 🥈 [AIIJC](https://aiijc.com/en/results2023/) (Case: Manufacturing, Team: UnThinkable, Year: 2023)
+
+### 🛠️ Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
