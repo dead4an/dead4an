@@ -4,8 +4,8 @@
 
 ---
 ### 🚀 Projects
-- Autumnus (Tensors and Dynamic neural networks in Python)
-- Roadline semantic segmentation
+- Autumnus (Tensors and Dynamic neural networks in Python) [running]
+- Roadline semantic segmentation [running]
 
 ### 📕 Subjects I'm intrested in
 - Data Science
