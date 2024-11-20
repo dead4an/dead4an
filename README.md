@@ -4,7 +4,7 @@
 
 ---
 ### 🚀 Projects
-- Autumnus (Tensors and Dynamic neural networks in Python) [running]
+- [Autumnus](https://github.com/dead4an/autumnus) (Autograd and NNs in Python) [running]
 - [Roadline semantic segmentation](https://github.com/dead4an/roadline-semantic-segmentation)
 
 ### 📕 Subjects I'm intrested in
