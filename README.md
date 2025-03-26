@@ -4,7 +4,7 @@
 
 ---
 ### 🚀 Projects
-- Autumnus (Autograd and NNs in Python) [planned]
+- [Autumnus (Autograd and NNs in Python)](https://github.com/dead4an/autumnus)
 - [Roadline semantic segmentation](https://github.com/dead4an/roadline-semantic-segmentation)
 
 ### 📕 Subjects I'm intrested in
