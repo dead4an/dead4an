@@ -14,4 +14,5 @@
 
 ### 🏆 Achievements
 - 🥇 [Leaders of Digital](https://hacks-ai.ru/events/1077382) (Case: Detection of traffic violations, Team: UnThinkable, Year: 2024)
+- 🥈 [AIIJC](https://aiijc.com/en/results2025/) (Case: Students/SberMedAI, Solo, Year: 2025)
 - 🥈 [AIIJC](https://aiijc.com/en/results2023/) (Case: Manufacturing, Team: UnThinkable, Year: 2023)
